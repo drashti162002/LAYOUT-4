@@ -21,6 +21,9 @@ ul, ol {
 li {
     list-style: none;
 }
+#class{
+    overflow: hidden;
+}
 
 /* header part css start */
 .main_section{
@@ -81,9 +84,13 @@ li {
     font-size: 30px;
 }
 .fast_1{
-    font-size: 35px;
+    font-size: 30px;
 }
 .fast_2{
-    font-size: 25px;
+    font-size: 30px;
     color: rgb(181, 48, 119);
+}
+.contant_1{
+    padding-left: 50px;
+    border-left: 2px solid gray;
 }
