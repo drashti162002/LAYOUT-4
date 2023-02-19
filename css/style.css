@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+}
+img {
+    width: 100%;
+}
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0px;
+    padding: 0px;
+}
+a{
+   text-decoration: none;
+}
+ul, ol {
+    margin: 0px;
+    padding: 0px;
+}
+li {
+    list-style: none;
+}
+input, button {
+    box-shadow: none;
+    outline: none;
+}
+
+/* header part css start */
+.data_1{
+    background-color: gray;
+}
+.main_section{
+    background-image: url('../images/iamge-2.jpg');
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.color_1{
+    background-color: aqua;
+}
+.color_2{
+    background-color: pink;
+}
+
+.data_2{
+    background-color: rgba(129, 195, 221, 0.408);
+}
+.data_3{
+    background-color: rgba(254, 192, 255, 0.618);
+}
