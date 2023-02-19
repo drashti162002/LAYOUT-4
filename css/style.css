@@ -68,6 +68,22 @@ li {
 .name_6{
     font-size:130px;
 }
-.about{
+.about_data{
     border-left: 5px solid pink;
+}
+.about_full{
+    background-color: gray;
+}
+.about{
+    font-size: 35px;
+}
+.our{
+    font-size: 30px;
+}
+.fast_1{
+    font-size: 35px;
+}
+.fast_2{
+    font-size: 25px;
+    color: rgb(181, 48, 119);
 }
