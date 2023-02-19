@@ -46,7 +46,12 @@ input, button {
 
 .data_2{
     background-color: rgba(129, 195, 221, 0.408);
+    color: white;
 }
 .data_3{
     background-color: rgba(254, 192, 255, 0.618);
+}
+.business{
+    font-size: 50px;
+    opacity: 0.50;
 }
