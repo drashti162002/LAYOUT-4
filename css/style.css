@@ -21,57 +21,50 @@ ul, ol {
 li {
     list-style: none;
 }
-/* #class{
-    overflow: hidden;
-} */
 
 /* header part css start */
 .heading{
     padding-left: 80px;
     padding-top: 30px;
     text-align: justify;
-    position: absolute;
-    margin-bottom: 50px;
+    padding-bottom: 50px;
 }
 .image-1{
     width: 100%;
     height: 100%;
 }
 .word{
-    font-size: 35px;
+    font-size: 40px;
 }
 .add_full{
     color: gray;
-    /* padding-bottom: 50px; */
 }
 .add_1{
-    font-size: 40px;
-    position: inherit;
+    font-size: 30px;
 }
 .add_2{
     font-size: 22px;
-    margin-top: -0.5rem;
 }
 .address{
-    background-color: rgba(128, 128, 128, 0.365);
+    background-color: rgba(128, 128, 128, 0.089);
 }
 .main_section{
-    background-image: url('../images/iamge-2.jpg');
+    background-image: url('../images/img-2.jpg');
     width: 100%;
-    height: 680px;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .data{
-    background-color: rgba(129, 195, 221, 0.408);
+    background-color: rgba(33, 116, 200, 0.604);
     color: white;
     padding-top: 70px;
     padding-left: 120px;
-    padding-bottom: 70px;
+    padding-bottom: 65px;
+    margin-bottom: -15px;
 }
 .data_3{
-    background-color: rgba(254, 192, 255, 0.618);
-    height: 150px;
+    background-color: rgba(255, 0, 157, 0.623);
+    height: 200px;
 } 
 .name_1{
     font-size: 40px;
@@ -80,7 +73,7 @@ li {
 }
 .name_2{
     border: 5px solid white;
-    width: 130px;
+    width: 150px;
 }
 .name_3{
     font-size: 190px;
@@ -97,15 +90,15 @@ li {
 }
 .box{
     font-size: 40px;
-    color: palevioletred;
+    color: rgba(255, 0, 157, 0.623);
 }
 .about_data{
-    border-left: 15px solid pink;
+    border-left: 15px solid rgb(255, 0, 157);
     padding-left: 30px;
     line-height: 40px;
 }
 .about_full{
-    background-color: gray;
+    background-color: rgba(133, 126, 126, 0.089);
     padding: 30px 100px ;
 }
 .about_par{
@@ -123,7 +116,7 @@ li {
 }
 .fast_2{
     font-size: 30px;
-    color: rgb(181, 48, 119);
+    color: rgb(255, 0, 157);
 }
 .fast_3{
     font-size: 20px;
@@ -132,7 +125,6 @@ li {
     padding: 40px 100px;
 }
 .contant_1{
-    /* padding-left: 80px; */
     padding-right: 50px;
     text-align: justify;
 }
@@ -146,7 +138,6 @@ li {
 .contant_3{
     padding-left: 50px;
     text-align: justify;
-    /* padding-right: 80px; */
 }
 .para_1{
     border:5px solid rgb(255, 0, 157);
@@ -160,9 +151,6 @@ li {
     margin-top:-17px;
     margin-left: 268px;
 }
-.draw{
-    border: 5px solid pink;
-}
 .file{
     font-size:100px;
 }
@@ -170,7 +158,7 @@ li {
 .footer_data{
     background-color: black;
     color: white;
-    padding: 50px 200px;
+    padding: 60px 200px;
     font-size: 25px;
 }
 .dot_1{
@@ -200,4 +188,8 @@ li {
 .createch{
     font-size: 20px;
     padding-top: 7px;
+}
+
+.all{
+    border: 5px solid grey;
 }
