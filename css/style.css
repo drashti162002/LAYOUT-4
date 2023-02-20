@@ -45,12 +45,12 @@ li {
     /* padding-bottom: 50px; */
 }
 .add_1{
-    font-size: 50px;
+    font-size: 40px;
     position: inherit;
 }
 .add_2{
-    font-size: 25px;
-    margin-top: -1rem;
+    font-size: 22px;
+    margin-top: -0.5rem;
 }
 .address{
     background-color: rgba(128, 128, 128, 0.365);
@@ -58,14 +58,16 @@ li {
 .main_section{
     background-image: url('../images/iamge-2.jpg');
     width: 100%;
-    height: 100%;
+    height: 680px;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .data{
     background-color: rgba(129, 195, 221, 0.408);
     color: white;
-    /* padding: 70px 50px; */
+    padding-top: 70px;
+    padding-left: 120px;
+    padding-bottom: 70px;
 }
 .data_3{
     background-color: rgba(254, 192, 255, 0.618);
@@ -83,7 +85,6 @@ li {
 .name_3{
     font-size: 190px;
     opacity: 0.50;
-    padding-left: 50px;
     font-weight: 700;
 } 
 .name{
@@ -94,20 +95,22 @@ li {
 .name_4{
    font-size:130px;
 }
-.name_5{
-    font-size:130px;
-}
-.name_6{
-    font-size:130px;
-}
 .box{
-    font-size: 50px;
+    font-size: 40px;
+    color: palevioletred;
 }
 .about_data{
-    border-left: 5px solid pink;
+    border-left: 15px solid pink;
+    padding-left: 30px;
+    line-height: 40px;
 }
 .about_full{
     background-color: gray;
+    padding: 30px 100px ;
+}
+.about_par{
+    font-size: 25px;
+    text-align: justify;
 }
 .about{
     font-size: 35px;
@@ -122,12 +125,46 @@ li {
     font-size: 30px;
     color: rgb(181, 48, 119);
 }
+.fast_3{
+    font-size: 20px;
+}
+.contant_all{
+    padding: 40px 100px;
+}
 .contant_1{
+    /* padding-left: 80px; */
+    padding-right: 50px;
+    text-align: justify;
+}
+.contant_2{
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: justify;
+    border-left: 2px solid gray;
+    border-right: 2px solid gray;
+}
+.contant_3{
     padding-left: 50px;
-    /* border-left: 2px solid gray; */
+    text-align: justify;
+    /* padding-right: 80px; */
+}
+.para_1{
+    border:5px solid rgb(255, 0, 157);
+    width: 25px;
+    margin-top:-17px;
+    margin-left: 230px;
+}
+.para_2{
+    border:5px solid rgb(255, 0, 157);
+    width: 25px;
+    margin-top:-17px;
+    margin-left: 268px;
 }
 .draw{
     border: 5px solid pink;
+}
+.file{
+    font-size:100px;
 }
 /* footer part css start */
 .footer_data{
@@ -138,10 +175,13 @@ li {
 }
 .dot_1{
     border:3px solid white;
-    width: 30px;
+    width: 32px;
 }
 .ux{
     font-size: 25px;
+}
+.ux_design{
+    padding-left: 50px;
 }
 .dot_2{
     border:3px solid white;
