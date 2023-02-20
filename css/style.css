@@ -193,3 +193,9 @@ li {
 .all{
     border: 5px solid grey;
 }
+
+@media screen and (max-width: 600px){
+    .name_3{
+        font-size:100px;
+    }
+}
