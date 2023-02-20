@@ -45,6 +45,35 @@ li {
 .add_2{
     font-size: 22px;
 }
+.one_plus{
+    font-family: cursive;
+    color: white;
+    padding-top: 65px;
+}
+.full_col{
+    background-color: black;
+}
+
+.plus{
+    font-size: 50px;
+    padding-left: 110px;
+}
+.one{
+    font-size: 50px;
+    padding-left: 195px;
+    margin-top: -40px;
+}
+.plus_1{
+    color: rgb(255, 0, 157) ;
+    margin-right: -15px;
+    font-weight: 500px;
+}
+.agency{
+    color: white;
+    font-size: 25px;
+    padding-left: 112px;
+    margin-top: -15px;
+}
 .address{
     background-color: rgba(128, 128, 128, 0.089);
 }
@@ -199,3 +228,4 @@ li {
         font-size:100px;
     }
 }
+
